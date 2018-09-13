@@ -1,0 +1,16 @@
+{
+  "client": [
+    "/assets/vendors.chunk.js",
+    "/assets/client.js"
+  ],
+  "home": [
+    "/assets/vendors~home~not-found.chunk.js",
+    "/assets/home~not-found.chunk.js",
+    "/assets/home.chunk.js"
+  ],
+  "not-found": [
+    "/assets/vendors~home~not-found.chunk.js",
+    "/assets/home~not-found.chunk.js",
+    "/assets/not-found.chunk.js"
+  ]
+}
